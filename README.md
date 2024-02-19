@@ -5,7 +5,7 @@ Curated list of open-source &amp; paid Attack Surface Monitoring (ASM) tools.
 Free and Open Source in Alphabetical Order
 =================
 
-I've put a * next to a small number of my favorite ASMs!
+I've put a * next to a small number of [my](https://github.com/0xtavian) favorite ASMs!
  * [archerysec](https://github.com/archerysec/archerysec) *
  * [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)
  * [axiom](https://github.com/pry0cc/axiom) *
